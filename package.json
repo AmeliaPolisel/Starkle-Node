@@ -1,0 +1,15 @@
+{
+  "name": "starkle-node",
+  "version": "1.0.0",
+  "description": "dane-se",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "index.js"
+  },
+  "author": "amélia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

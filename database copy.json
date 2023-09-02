@@ -1,0 +1,14 @@
+{
+    "name": "gersu",
+    "idade": 21,
+    "gostadelotr": true,
+
+    "objetopica": {
+        "maiscoisa": "corninho"
+    },
+    
+    "arraypica": [
+        1,
+        2
+    ]
+}
